@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack<br><br>👯 I’m looking to collaborate on Coding Projects<br><br>📫 How to reach me singh.rohankumar2002@gmail.com
+🌱 I’m currently learning Computer Vision and Web Dev<br><br>👯 I’m looking to collaborate on Coding Projects<br><br>📫 How to reach me singh.rohankumar2002@gmail.com
 
 
 ## 🌐 Socials:
