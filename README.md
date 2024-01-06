@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Computer Vision and Machine Learning and am proficient in Python, C++, Javascript<br><br>👯 I’m looking for Opportunities to Learn and Contribute<br><br>📫 How to reach me singh.rohankumar2002@gmail.com
+🌱 I’m currently learning Computer Vision and Machine Learning, and I am proficient in Python, C++, Javascript<br><br>👯 I’m looking for Opportunities to Learn and Contribute<br><br>📫 How to reach me singh.rohankumar2002@gmail.com
 
 
 ## 🌐 Socials:
