@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 AI, Python, C++, JavaScript<br><br>👯 I’m looking for Opportunities to Learn and Contribute<br><br>📫 How to reach me singh.rohankumar2002@gmail.com
+🌱 AI, Python, C++, JavaScript<br><br>👯 I’m looking for Opportunities to Learn and Contribute<br><br>📫 How to reach me rohanksingh.dev@gmail.com
 
 
 ## 🌐 Socials:
