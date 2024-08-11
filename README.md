@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 AI, Python, C++, JavaScript<br><br>👯 I’m looking for Opportunities to Learn and Contribute<br><br>📫 How to reach me rohanksingh.dev@gmail.com<br><br> ![suitcase](https://github.com/user-attachments/assets/d6731b0d-4cc0-4b7f-ac3f-dfa28c3fbf3d) <a style="color: black; text-decoration: none; size: 10px" href="https://drive.google.com/file/d/18RKZ32jhHoLtdVwn1aSTIG3EdIbUWC7-/view?usp=sharing">Resume</a> <br><br>
+🌱 AI, Python, C++, JavaScript<br><br>👯 I’m looking for Opportunities to Learn and Contribute<br><br>📫 How to reach me rohanksingh.dev@gmail.com<br><br> <a style="color: black; text-decoration: none;" href="https://drive.google.com/file/d/18RKZ32jhHoLtdVwn1aSTIG3EdIbUWC7-/view?usp=sharing">Resume</a> <br><br>
 
 
 
