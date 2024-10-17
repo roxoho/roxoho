@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Python, JavaScript, NestJS, AI, NextJS, C++<br><br>👯 I’m looking for Opportunities to Learn and Contribute<br><br>📫 Reach out at rohanksingh.dev@gmail.com<br><br><br> <a style="color: black; text-decoration: none;" href="https://drive.google.com/file/d/18RKZ32jhHoLtdVwn1aSTIG3EdIbUWC7-/view?usp=sharing">RESUME</a> <br><br>
+🌱 Python, JavaScript, AI, NextJS, NestJS, C++<br><br>👯 I’m looking for Opportunities to Learn and Contribute<br><br>📫 Reach out at rohanksingh.dev@gmail.com<br><br><br> <a style="color: black; text-decoration: none;" href="https://drive.google.com/file/d/18RKZ32jhHoLtdVwn1aSTIG3EdIbUWC7-/view?usp=sharing">RESUME</a> <br><br>
 
 
 
