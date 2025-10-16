@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Python, JavaScript, AI, NextJS, NestJS, Computer Vision, C++<br><br>👯 I’m open to opportunities to learn and contribute.<br><br>📫 Reach out at rohanksingh.dev@gmail.com<br><br><br> <a style="color: black; text-decoration: none;" href="https://drive.google.com/file/d/1eXvKW4FoLly_46ZKGSj-LZMcOqldiVZM/view">RESUME</a> <br><br>
+I am a passionate tech enthusiast with over a year of hands-on experience in software development and artificial intelligence.<br><br>🌱 Python, JavaScript, AI, React, Backend, Machine Learning<br><br>📫 Reach out at rohanksingh.dev@gmail.com<br><br><br> <a style="color: black; text-decoration: none;" href="https://drive.google.com/file/d/1eXvKW4FoLly_46ZKGSj-LZMcOqldiVZM/view">RESUME</a> <br><br>
 
 
 
